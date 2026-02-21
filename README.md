@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="apps/desktop-ui/ui/assets/mlxpilot-wordmark.png" alt="MLX Pilot" width="420" />
+  <img src="https://github.com/MLX-Pilot/.github/raw/main/profile/Visual_Edit.jpg" alt="MLX Pilot" width="420" style="border-radius: 16px; overflow: hidden;" />
 </p>
 
 <p align="center">
