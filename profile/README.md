@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MLX-Pilot/.github/raw/main/profile/Visual_Edit.jpg" alt="MLX Pilot" width="420" style="border-radius: 16px; overflow: hidden;" />
+  <img src="https://github.com/MLX-Pilot/.github/raw/main/profile/Visual_Edit.jpg" alt="MLX Pilot" width="620" style="border-radius: 16px; overflow: hidden;" />
 </p>
 
 <p align="center">
