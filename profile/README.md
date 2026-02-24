@@ -178,6 +178,67 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
+## 🧑‍💻 Participantes do Projeto
+<table align="center">
+  <tr>
+    <td align="center">
+            <a href="https://github.com/Kaike-Vitorino">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/95941334?v=4" width="80px;" alt=""/>
+                <br/>
+                <b>Kaike Vitorino</b>
+            </a>
+        <td align="center">
+            <a href="https://github.com/PETROMYZONMONSTER">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/122068486?v=4" width="80px;" alt=""/>
+                <br/>
+                <b>Lívia Lemos</b>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/gabriellima-4">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473024?v=4" width="80px;" alt=""/>
+                <br/>
+                <b>Gabriel Lima</b>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/GabrielSalustiano">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472409?v=4" width="80px;" alt=""/>
+                <br/>
+                <b>Gabriel Salustiano</b>
+            </a>
+        </td>
+       <td align="center">
+              <a href="https://github.com/MarcellinhoHM">
+                  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472446?v=4" width="80px;" alt=""/>
+                  <br/>
+                  <b>Marcello Montella</b>
+              </a>
+          </td>
+       <td align="center">
+            <a href="https://github.com/RamLi06">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/146193541?v=4" width="80px;" alt=""/>
+                <br/>
+                <b>Ramon Rocha</b>
+            </a>
+        </td>
+  </tr>
+</table>
+
+---
+
+## 📬 Contato
+
+Para dúvidas ou sugestões, entre em contato com os responsáveis pelo projeto:  
+**Kaike Vitorino de Oliveira** — [LinkedIn](https://www.linkedin.com/in/kaike-vitorino-de-oliveira/)<br/>
+**Lívia Lemos de São José** — [LinkedIn](https://www.linkedin.com/in/lemos-de-s%C3%A3o-jos%C3%A9-6bab19351/)<br/>
+**Gabriel de Medeiros Lima** — [LinkedIn](https://www.linkedin.com/in/gabriel-de-medeiros-lima/)<br/>
+**Gabriel Salustiano** — [LinkedIn](https://www.linkedin.com/in/gabriel-salustiano/)<br/>
+**Marcello Augusto Montella** — [LinkedIn](https://www.linkedin.com/in/marcello-augusto-hesketh-montella-042a66370/)<br/>
+**Ramon Lima Rocha** — [LinkedIn](https://www.linkedin.com/in/ramon-lima-rocha-46252426b/)
+
+---
+
 <p align="center">
   Feito com 🧡 e Rust &nbsp;·&nbsp; <strong>MLX Pilot</strong>
 </p>
